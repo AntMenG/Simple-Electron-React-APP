@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm run electron-dev`
 
-Runs the app with server on port 3000 and electron app
+Run the app with server on port 3000 and electron app
 
 ### `npm start`
 
